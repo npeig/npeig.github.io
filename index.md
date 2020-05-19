@@ -4,7 +4,8 @@
 
 layout: page
 title: Engineering Interest Group
-
+hero_image: /assets/pictures/ahegao.jpeg
+text-color: 000000
 ---
 
 NPEIG
