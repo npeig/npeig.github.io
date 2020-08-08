@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
-NPEIG was founded by a team of losers in Engineering Science in 2018. 
+# EIG is an engineering-centric interest group based in Ngee Ann Polytechnic.
 
-It has quickly risen to please the top echelons of Ngee Ann's School of Engineering in just a couple of years.
+We endeavour to develop the skills that are frequently underdeveloped by engineers, but are exceedingly essential to place our students at a cut above the rest.
+From presentation skills and networking, to research and advance systems, EIG intends to help you be more than an engineer.
