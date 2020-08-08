@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-contact us
-
-linkedin: [yeet](https://www.linkedin.com/company/npeig/)
-
-Instagram: [yeet yeet](instagram.com/npeig/)
+## Reach us
+LinkedIn: [Engineering Interest Group](https://www.linkedin.com/company/npeig/)
+Instagram: [@npeig](https://www.instagram.com/npeig/)
